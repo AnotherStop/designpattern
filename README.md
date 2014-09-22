@@ -1,4 +1,4 @@
-designpattern
+Design Pattern Practice
 =============
 
-Repo for design pattern practice
+This is a repo for design pattern practice.
